@@ -4,6 +4,14 @@ Websocket Server is a Rust server application.
 
 ## Installation
 
+Make sure you have the right default development environment that include C/C++ compiler.
+
+For Ubuntu make install built-essential
+
+```bash
+sudo apt install build-essential
+```
+
 Install Rust and its package manager Cargo
 
 ```bash
